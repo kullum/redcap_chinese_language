@@ -1,2 +1,2 @@
 # redcap_chinese_language
-REDCap Chinese Translation File. Welcome
+REDCap Chinese Translation File.
